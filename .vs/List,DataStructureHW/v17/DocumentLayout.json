@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\List,DataStructureHW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E55DE9A1-2252-428A-AA78-7E98C96692F8}|List,DataStructureHW\\List,DataStructureHW.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\list,datastructurehw\\list,datastructurehw\\moduls\\intarraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55DE9A1-2252-428A-AA78-7E98C96692F8}|List,DataStructureHW\\List,DataStructureHW.csproj|solutionrelative:list,datastructurehw\\moduls\\intarraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55DE9A1-2252-428A-AA78-7E98C96692F8}|List,DataStructureHW\\List,DataStructureHW.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\list,datastructurehw\\list,datastructurehw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55DE9A1-2252-428A-AA78-7E98C96692F8}|List,DataStructureHW\\List,DataStructureHW.csproj|solutionrelative:list,datastructurehw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntArrayList.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\List,DataStructureHW\\List,DataStructureHW\\Moduls\\IntArrayList.cs",
+              "RelativeDocumentMoniker": "List,DataStructureHW\\Moduls\\IntArrayList.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\List,DataStructureHW\\List,DataStructureHW\\Moduls\\IntArrayList.cs",
+              "RelativeToolTip": "List,DataStructureHW\\Moduls\\IntArrayList.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAD4vyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:44:02.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\List,DataStructureHW\\List,DataStructureHW\\Program.cs",
+              "RelativeDocumentMoniker": "List,DataStructureHW\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\List,DataStructureHW\\List,DataStructureHW\\Program.cs",
+              "RelativeToolTip": "List,DataStructureHW\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:40:56.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

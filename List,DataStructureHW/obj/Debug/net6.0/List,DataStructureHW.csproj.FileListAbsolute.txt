@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\bin\Debug\net6.0\List,DataStructureHW.exe
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\bin\Debug\net6.0\List,DataStructureHW.deps.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\bin\Debug\net6.0\List,DataStructureHW.runtimeconfig.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\bin\Debug\net6.0\List,DataStructureHW.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\bin\Debug\net6.0\List,DataStructureHW.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\obj\Debug\net6.0\List,DataStructureHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\obj\Debug\net6.0\List,DataStructureHW.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\obj\Debug\net6.0\List,DataStructureHW.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\obj\Debug\net6.0\List,DataStructureHW.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\obj\Debug\net6.0\List,DataStructureHW.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\obj\Debug\net6.0\refint\List,DataStructureHW.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\obj\Debug\net6.0\List,DataStructureHW.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\obj\Debug\net6.0\List,DataStructureHW.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\List,DataStructureHW\List,DataStructureHW\obj\Debug\net6.0\ref\List,DataStructureHW.dll
